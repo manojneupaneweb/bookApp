@@ -9,7 +9,7 @@ function Home() {
     <>
       <Navbar />
       <Banner />
-      <Freebook />
+      <Freebook     />
       <Footer />
     </>
   );
