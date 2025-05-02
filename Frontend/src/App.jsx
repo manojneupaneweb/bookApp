@@ -9,7 +9,7 @@ n
 function App() {
   const [authUser, setAuthUser] = useAuth();
   console.log(authUser);
-  return (
+  return ( 
     <>
       <div className="dark:bg-slate-900 dark:text-white">
         <Routes>
